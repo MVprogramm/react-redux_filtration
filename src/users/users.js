@@ -1,14 +1,59 @@
 const users = [
-  { id: "id - 01", name: "Tom", age: 20 },
-  { id: "id - 02", name: "Bob", age: 100 },
-  { id: "id - 03", name: "Jim", age: 32 },
-  { id: "id - 04", name: "Tim", age: 45 },
-  { id: "id - 05", name: "Steve", age: 27 },
-  { id: "id - 06", name: "John", age: 26 },
-  { id: "id - 07", name: "Jack", age: 19 },
-  { id: "id - 08", name: "Bill", age: 21 },
-  { id: "id - 09", name: "Dick", age: 22 },
-  { id: "id - 10", name: "Antony", age: 60 },
+  {
+      id: 'id-0',
+      age: 21,
+      name: 'Bob',
+  },
+  {
+      id: 'id-1',
+      age: 17,
+      name: 'Tom',
+  },
+  {
+      id: 'id-2',
+      age: 18,
+      name: 'Tad',
+  },
+  {
+      id: 'id-3',
+      age: 45,
+      name: 'Justin',
+  },
+  {
+      id: 'id-4',
+      age: 45,
+      name: 'Franklin',
+  },
+  {
+      id: 'id-5',
+      age: 45,
+      name: 'John',
+  },
+  {
+      id: 'id-6',
+      age: 45,
+      name: 'Andrew',
+  },
+  {
+      id: 'id-7',
+      age: 45,
+      name: 'Pol',
+  },
+  {
+      id: 'id-8',
+      age: 45,
+      name: 'Ron',
+  },
+  {
+      id: 'id-9',
+      age: 45,
+      name: 'Harry',
+  },
+  {
+      id: 'id-10',
+      age: 45,
+      name: 'Anna',
+  },
 ];
 
 export default users;
